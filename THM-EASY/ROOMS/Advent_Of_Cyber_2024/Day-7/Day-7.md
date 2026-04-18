@@ -57,10 +57,12 @@ SOC analysts can verify suspicious activity by contacting:
 
 **Answer the questions below:**   
 Q-1 What is the other activity made by the user glitch aside from the ListObject action?
+![](images/1.png)
 ```
 PutObject
 ```
 Q-2 What is the source IP related to the S3 bucket activities of the user glitch?
+![](images/2.png)
 ```
 53.94.201.69
 ```
